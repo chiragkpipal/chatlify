@@ -80,7 +80,7 @@ createDivWithImage(imageUrl);
                         <a class="nav-link" href="/#pricing">pricing</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="contact.html">contact</a>
+                        <a class="nav-link" href="contact.php">contact</a>
                     </li>
                 </ul>
                 <ul class="tf__menu_btn d-flex flex-wrap align-items-center">
@@ -144,7 +144,7 @@ createDivWithImage(imageUrl);
                         <div class="col-xl-4 col-md-6 mb-4">
                             <div class="tf__single_service">
                                 <span><i class="fa-regular fa-headset"></i></span>
-                                <a class="tf__single_service_link" href="use-cases-details.html">Enhanced Customer
+                                <a class="tf__single_service_link" href="use-cases-details.php">Enhanced Customer
                                     Support</a>
                                 <p>Seamlessly address customer queries and issues, providing instant solutions or
                                     escalating them efficiently to the support team.</p>
@@ -157,7 +157,7 @@ createDivWithImage(imageUrl);
                         <div class="col-xl-4 col-md-6 mb-4">
                             <div class="tf__single_service">
                                 <span><i class="fa-regular fa-wand-magic-sparkles"></i></span>
-                                <a class="tf__single_service_link" href="use-cases-details.html">Personalized
+                                <a class="tf__single_service_link" href="use-cases-details.php">Personalized
                                     Recommendations</a>
                                 <p>Tailor product or service suggestions based on their preferences and requirements,
                                     enhancing their experience.</p>
@@ -170,7 +170,7 @@ createDivWithImage(imageUrl);
                         <div class="col-xl-4 col-md-6 mb-4">
                             <div class="tf__single_service">
                                 <span><i class="fa-regular fa-robot"></i></span>
-                                <a class="tf__single_service_link" href="use-cases-details.html">Automated Information
+                                <a class="tf__single_service_link" href="use-cases-details.php">Automated Information
                                     Retrieval</a>
                                 <p>Instantly provide information about the business, services, or products, catering to
                                     user inquiries promptly.</p>
@@ -183,7 +183,7 @@ createDivWithImage(imageUrl);
                         <div class="col-xl-4 col-md-6 mb-4">
                             <div class="tf__single_service">
                                 <span><i class="fa-regular fa-tag"></i></span>
-                                <a class="tf__single_service_link" href="use-cases-details.html"> Efficient Pricing and
+                                <a class="tf__single_service_link" href="use-cases-details.php"> Efficient Pricing and
                                     Quoting</a>
                                 <p>Calculate prices, generate quotes for services or products, empowering users with
                                     instant cost information.</p>
@@ -196,7 +196,7 @@ createDivWithImage(imageUrl);
                         <div class="col-xl-4 col-md-6 mb-4">
                             <div class="tf__single_service">
                                 <span><i class="fa-regular fa-wrench"></i></span>
-                                <a class="tf__single_service_link" href="use-cases-details.html">Advanced
+                                <a class="tf__single_service_link" href="use-cases-details.php">Advanced
                                     Troubleshooting</a>
                                 <p>Handle complex issues by providing in-depth troubleshooting steps and solutions to
                                     alleviate user concerns.</p>
@@ -209,7 +209,7 @@ createDivWithImage(imageUrl);
                         <div class="col-xl-4 col-md-6 mb-4">
                             <div class="tf__single_service">
                                 <span><i class="ca-icon-graph"></i></span>
-                                <a class="tf__single_service_link" href="use-cases-details.html"> Multilingual Support
+                                <a class="tf__single_service_link" href="use-cases-details.php"> Multilingual Support
                                     and Analytics</a>
                                 <p>Engage a global audience by providing multilingual support and leverage analytics for
                                     business insights.</p>
@@ -761,7 +761,7 @@ createDivWithImage(imageUrl);
         <div class="row">
             <div class="col-xl-2 col-sm-6 col-md-3">
                 <div class="tf__footer_left">
-                    <a href="index.html" class="tf__footer_logo">
+                    <a href="index.php" class="tf__footer_logo">
                         <img src="images/Logo_1.png" alt="Chatlifyai" class="img-fluid w-100" />
                     </a>
                     <div class="tf__footer_icon d-flex flex-wrap align-items-center">
@@ -807,7 +807,7 @@ createDivWithImage(imageUrl);
                 <div class="tf__quick_link tf__quick_link_sm">
                     <h5>Get in touch</h5>
                     <ul>
-                        <li><a href="contact.html">Contact us</a></li>
+                        <li><a href="contact.php">Contact us</a></li>
                         <li><a href="mailto:support@chatlify.me">Mail us</a></li>
                         <li><a href="https://wa.me/918262807669">Whatsapp</a></li>
                     </ul>
