@@ -93,7 +93,7 @@
                         <a class="nav-link" href="/#pricing">pricing</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="contact.html">contact</a>
+                        <a class="nav-link" href="contact.php">contact</a>
                     </li>
                 </ul>
                 <ul class="tf__menu_btn d-flex flex-wrap align-items-center">
@@ -222,7 +222,7 @@
         <div class="row">
             <div class="col-xl-2 col-sm-6 col-md-3">
                 <div class="tf__footer_left">
-                    <a href="index.html" class="tf__footer_logo">
+                    <a href="index.php" class="tf__footer_logo">
                         <img src="images/Logo_1.png" alt="Chatlifyai" class="img-fluid w-100" />
                     </a>
                     <div class="tf__footer_icon d-flex flex-wrap align-items-center">
@@ -268,7 +268,7 @@
                 <div class="tf__quick_link tf__quick_link_sm">
                     <h5>Get in touch</h5>
                     <ul>
-                        <li><a href="contact.html">Contact us</a></li>
+                        <li><a href="contact.php">Contact us</a></li>
                         <li><a href="mailto:support@chatlify.me">Mail us</a></li>
                         <li><a href="https://wa.me/918262807669">Whatsapp</a></li>
                     </ul>
